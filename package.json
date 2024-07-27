@@ -1,0 +1,22 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "Collection of JS utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik1694/my-npm-pkg.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Dungala Prem Karthik Naidu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik1694/my-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/karthik1694/my-npm-pkg#readme"
+}
