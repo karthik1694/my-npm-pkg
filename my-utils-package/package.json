@@ -1,11 +1,11 @@
 {
-  "name": "@prem/utils",
+  "name": "js-utils-prem",
   "version": "1.0.0",
-  "description": "Collection of JS snippets",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "npm"
+    "test": "npm run test"
   },
   "repository": {
     "type": "git",
@@ -14,14 +14,10 @@
   "keywords": [
     "npm"
   ],
-  "author": "Dungala Prem Karthik Naidu",
+  "author": "D Prem Karthik Naidu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/karthik1694/my-npm-pkg/issues"
   },
-  "homepage": "https://github.com/karthik1694/my-npm-pkg#readme",
-  "publishConfig": {
-    "access": "public"
-  }
+  "homepage": "https://github.com/karthik1694/my-npm-pkg#readme"
 }
-
