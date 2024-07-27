@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/karthik1694/my-npm-pkg/issues"
   },
-  "homepage": "https://github.com/karthik1694/my-npm-pkg#readme"
+  "homepage": "https://github.com/karthik1694/my-npm-pkg#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
+
